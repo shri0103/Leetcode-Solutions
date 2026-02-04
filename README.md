@@ -41,4 +41,16 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
