@@ -46,6 +46,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shri0103/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -69,4 +70,8 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shri0103/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
