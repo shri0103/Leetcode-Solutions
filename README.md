@@ -128,4 +128,20 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0190-reverse-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
