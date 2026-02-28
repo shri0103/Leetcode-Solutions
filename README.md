@@ -41,6 +41,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -54,6 +55,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/shri0103/Leetcode-Solutions/tree/master/1603-design-parking-system) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -131,6 +133,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0190-reverse-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Tree
 |  |
 | ------- |
