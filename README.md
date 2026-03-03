@@ -66,6 +66,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/shri0103/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shri0103/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
