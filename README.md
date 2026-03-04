@@ -151,4 +151,12 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shri0103/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shri0103/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
