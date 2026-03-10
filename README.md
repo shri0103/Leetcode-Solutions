@@ -68,6 +68,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0053-maximum-subarray](https://github.com/shri0103/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shri0103/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -144,6 +145,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
