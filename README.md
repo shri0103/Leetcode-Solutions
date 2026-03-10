@@ -104,6 +104,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shri0103/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0032-longest-valid-parentheses](https://github.com/shri0103/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0696-count-binary-substrings](https://github.com/shri0103/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shri0103/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -180,9 +181,14 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shri0103/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/shri0103/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shri0103/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
