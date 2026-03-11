@@ -195,5 +195,6 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/shri0103/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/shri0103/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
