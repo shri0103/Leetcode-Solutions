@@ -85,6 +85,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0696-count-binary-substrings](https://github.com/shri0103/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/shri0103/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -171,6 +172,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shri0103/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/shri0103/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
