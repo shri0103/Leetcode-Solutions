@@ -75,6 +75,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0128-longest-consecutive-sequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/shri0103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1260-shift-2d-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -142,6 +143,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shri0103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
