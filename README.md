@@ -36,6 +36,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shri0103/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shri0103/Leetcode-Solutions/tree/master/0048-rotate-image) |
