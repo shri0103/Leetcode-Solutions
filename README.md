@@ -98,6 +98,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1652-defuse-the-bomb](https://github.com/shri0103/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/shri0103/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/shri0103/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shri0103/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -152,6 +153,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0696-count-binary-substrings](https://github.com/shri0103/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1816-truncate-sentence](https://github.com/shri0103/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shri0103/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
 |  |
