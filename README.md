@@ -102,6 +102,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1816-truncate-sentence](https://github.com/shri0103/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shri0103/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/shri0103/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -127,6 +128,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shri0103/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shri0103/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/shri0103/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -144,6 +146,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0128-longest-consecutive-sequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2540-minimum-common-value](https://github.com/shri0103/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shri0103/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -250,6 +253,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2540-minimum-common-value](https://github.com/shri0103/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
