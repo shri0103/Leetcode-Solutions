@@ -70,6 +70,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2180-count-integers-with-even-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shri0103/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Array
@@ -109,6 +110,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2906-construct-product-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shri0103/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/shri0103/Leetcode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
@@ -139,6 +141,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shri0103/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
@@ -200,6 +203,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
