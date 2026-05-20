@@ -107,6 +107,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/shri0103/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/shri0103/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shri0103/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -163,6 +164,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0128-longest-consecutive-sequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/shri0103/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shri0103/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -214,6 +216,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [1603-design-parking-system](https://github.com/shri0103/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
