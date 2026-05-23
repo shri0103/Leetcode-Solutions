@@ -3,6 +3,7 @@ class Solution {
         int[] arr=  nums.clone();
         Arrays.sort(arr);
         int l=0;
+      boolean same = true;
        
         while(l<nums.length){
             int temp=nums[0];
@@ -11,8 +12,7 @@ class Solution {
             
         }
         nums[nums.length-1]=temp;
-         boolean same = true;
-
+        same=true;
 for(int i = 0; i < nums.length; i++) {
     if(arr[i] != nums[i]) {
         same = false;
@@ -26,16 +26,7 @@ if(same) {
         l++;
                 }
 
-                for(int i=0;i<nums.length;i++){
-
-            System.out.print(nums[i]+" ");
-                }
-                for(int i=0;i<nums.length;i++){
-
-                    if(arr[i]!=nums[i]) return false;
-                }
-       return true;
-        
+              return same;
         
     }
 }
