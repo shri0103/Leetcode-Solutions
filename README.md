@@ -63,6 +63,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shri0103/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3783-mirror-distance-of-an-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
