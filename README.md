@@ -41,6 +41,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0012-integer-to-roman](https://github.com/shri0103/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shri0103/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shri0103/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
