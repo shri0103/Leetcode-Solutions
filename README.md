@@ -181,6 +181,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/shri0103/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shri0103/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -196,6 +197,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1816-truncate-sentence](https://github.com/shri0103/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3248-snake-in-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shri0103/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
