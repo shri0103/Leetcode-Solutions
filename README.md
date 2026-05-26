@@ -40,6 +40,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0009-palindrome-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shri0103/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shri0103/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/shri0103/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -298,6 +299,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shri0103/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [2540-minimum-common-value](https://github.com/shri0103/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
