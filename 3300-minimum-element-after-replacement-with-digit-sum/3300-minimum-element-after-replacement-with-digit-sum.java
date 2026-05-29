@@ -10,7 +10,8 @@ class Solution {
                 
             }minvalue=Math.min(minvalue,sum);
 
-        }return minvalue;
+        }
+        return minvalue;
         
     }
 }
