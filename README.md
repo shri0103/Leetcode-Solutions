@@ -127,6 +127,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1816-truncate-sentence](https://github.com/shri0103/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shri0103/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shri0103/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -175,6 +176,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shri0103/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shri0103/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
@@ -262,6 +264,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0055-jump-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1323-maximum-69-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shri0103/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Combinatorics
 |  |
