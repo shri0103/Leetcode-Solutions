@@ -141,6 +141,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2906-construct-product-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shri0103/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3151-special-array-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3151-special-array-i) |
@@ -186,6 +187,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -364,6 +366,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/shri0103/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Trie
 |  |
