@@ -70,6 +70,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shri0103/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/shri0103/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Simulation
@@ -363,6 +364,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0053-maximum-subarray](https://github.com/shri0103/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/shri0103/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -391,6 +393,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2843-count-symmetric-integers](https://github.com/shri0103/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Trie
 |  |
 | ------- |
