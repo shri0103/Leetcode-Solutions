@@ -92,6 +92,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3498-reverse-degree-of-a-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/shri0103/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3925-concatenate-array-with-reverse](https://github.com/shri0103/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Array
 |  |
 | ------- |
@@ -165,6 +166,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shri0103/Leetcode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3925-concatenate-array-with-reverse](https://github.com/shri0103/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
