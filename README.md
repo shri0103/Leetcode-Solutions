@@ -73,6 +73,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/shri0103/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3895-count-digit-appearances](https://github.com/shri0103/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shri0103/Leetcode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3895-count-digit-appearances](https://github.com/shri0103/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shri0103/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/shri0103/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
