@@ -1,22 +1,11 @@
 import java.util.Arrays;
 
 class Solution {
-    public int maxCoins(int[] piles) {
-        Arrays.sort(piles);
-
-        int ans = 0;
-        int n = piles.length;
-
-        int left = 0;
-        int right = n - 1;
-
-        while (left < right) {
-            right--;              // Alice takes largest
-            ans += piles[right];  // You take second largest
-            right--;
-            left++;               // Bob takes smallest
-        }
-
-        return ans;
+       public int maxCoins(int[] A) {
+        Arrays.sort(A);
+        int res = 0, n = A.length;
+        for (int i = n / 3; i < n; i += 2)
+            res += A[i];
+        return res;
     }
 }
