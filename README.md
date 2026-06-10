@@ -119,6 +119,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1260-shift-2d-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shri0103/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shri0103/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shri0103/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -205,6 +206,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/shri0103/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shri0103/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shri0103/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -300,6 +302,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1603-design-parking-system](https://github.com/shri0103/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -343,6 +346,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shri0103/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
