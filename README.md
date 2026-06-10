@@ -111,6 +111,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0189-rotate-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/shri0103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -200,6 +201,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/shri0103/Leetcode-Solutions/tree/master/1051-height-checker) |
@@ -223,6 +225,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0012-integer-to-roman](https://github.com/shri0103/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shri0103/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -296,6 +299,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1603-design-parking-system](https://github.com/shri0103/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -303,6 +307,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -327,6 +332,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0053-maximum-subarray](https://github.com/shri0103/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -441,4 +447,12 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shri0103/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
