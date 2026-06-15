@@ -367,10 +367,12 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0938-range-sum-of-bst](https://github.com/shri0103/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0938-range-sum-of-bst](https://github.com/shri0103/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -379,6 +381,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0938-range-sum-of-bst](https://github.com/shri0103/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -473,4 +476,8 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shri0103/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/shri0103/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
