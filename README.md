@@ -196,6 +196,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/shri0103/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shri0103/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/shri0103/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shri0103/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shri0103/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shri0103/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -263,6 +264,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1816-truncate-sentence](https://github.com/shri0103/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/shri0103/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/shri0103/Leetcode-Solutions/tree/master/2418-sort-the-people) |
@@ -425,6 +427,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shri0103/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/shri0103/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Database
 |  |
 | ------- |
