@@ -467,6 +467,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/shri0103/Leetcode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shri0103/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Game Theory
 |  |
