@@ -50,6 +50,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shri0103/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/shri0103/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shri0103/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
