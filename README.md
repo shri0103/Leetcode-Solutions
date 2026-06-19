@@ -141,6 +141,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/shri0103/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shri0103/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/shri0103/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/shri0103/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
@@ -245,6 +246,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shri0103/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shri0103/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -328,6 +330,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1603-design-parking-system](https://github.com/shri0103/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
