@@ -279,6 +279,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2000-reverse-prefix-of-word](https://github.com/shri0103/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2315-count-asterisks](https://github.com/shri0103/Leetcode-Solutions/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/shri0103/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
