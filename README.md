@@ -248,6 +248,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1636-sort-array-by-increasing-frequency](https://github.com/shri0103/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shri0103/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shri0103/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shri0103/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -274,6 +275,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1773-count-items-matching-a-rule](https://github.com/shri0103/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/shri0103/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shri0103/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/shri0103/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
