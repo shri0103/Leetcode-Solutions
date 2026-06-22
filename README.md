@@ -64,6 +64,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/shri0103/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/shri0103/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [2864-maximum-odd-binary-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shri0103/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -286,6 +287,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2315-count-asterisks](https://github.com/shri0103/Leetcode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/shri0103/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/shri0103/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [2864-maximum-odd-binary-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -364,6 +366,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shri0103/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shri0103/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2864-maximum-odd-binary-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Combinatorics
