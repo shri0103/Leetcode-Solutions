@@ -124,6 +124,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shri0103/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1049-last-stone-weight-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/shri0103/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shri0103/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -461,6 +462,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0152-maximum-product-subarray](https://github.com/shri0103/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [1049-last-stone-weight-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
