@@ -122,6 +122,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shri0103/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1051-height-checker](https://github.com/shri0103/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -484,6 +485,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/shri0103/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 ## Enumeration
 |  |
