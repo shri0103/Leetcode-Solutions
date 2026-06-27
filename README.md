@@ -309,6 +309,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2315-count-asterisks](https://github.com/shri0103/Leetcode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/shri0103/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/shri0103/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shri0103/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2864-maximum-odd-binary-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -346,6 +347,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1480-running-sum-of-1d-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/shri0103/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shri0103/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
