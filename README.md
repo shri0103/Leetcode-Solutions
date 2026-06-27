@@ -85,6 +85,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1389-create-target-array-in-the-given-order](https://github.com/shri0103/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/shri0103/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shri0103/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shri0103/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shri0103/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -301,6 +302,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1773-count-items-matching-a-rule](https://github.com/shri0103/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/shri0103/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shri0103/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shri0103/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/shri0103/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -488,6 +490,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shri0103/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shri0103/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/shri0103/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Database
 |  |
