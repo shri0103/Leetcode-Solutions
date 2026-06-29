@@ -326,6 +326,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3498-reverse-degree-of-a-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3675-minimum-operations-to-transform-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/3675-minimum-operations-to-transform-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shri0103/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/shri0103/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -407,6 +408,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2864-maximum-odd-binary-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3675-minimum-operations-to-transform-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/3675-minimum-operations-to-transform-string) |
 ## Combinatorics
 |  |
 | ------- |
