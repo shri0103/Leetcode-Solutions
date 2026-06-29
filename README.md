@@ -173,6 +173,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2553-separate-the-digits-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shri0103/Leetcode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2615-sum-of-distances](https://github.com/shri0103/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -275,6 +276,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2418-sort-the-people](https://github.com/shri0103/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/shri0103/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shri0103/Leetcode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2615-sum-of-distances](https://github.com/shri0103/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shri0103/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -352,6 +354,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2483-minimum-penalty-for-a-shop](https://github.com/shri0103/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/shri0103/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/shri0103/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3028-ant-on-the-boundary](https://github.com/shri0103/Leetcode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
