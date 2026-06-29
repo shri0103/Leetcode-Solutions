@@ -469,6 +469,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0002-add-two-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shri0103/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shri0103/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shri0103/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
