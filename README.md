@@ -212,6 +212,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/shri0103/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/shri0103/Leetcode-Solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3895-count-digit-appearances](https://github.com/shri0103/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shri0103/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/shri0103/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -383,6 +384,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3719-longest-balanced-subarray-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/shri0103/Leetcode-Solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Design
 |  |
 | ------- |
@@ -426,6 +428,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3675-minimum-operations-to-transform-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/3675-minimum-operations-to-transform-string) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/shri0103/Leetcode-Solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Combinatorics
 |  |
 | ------- |
@@ -519,6 +522,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1049-last-stone-weight-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/shri0103/Leetcode-Solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Union-Find
 |  |
 | ------- |
