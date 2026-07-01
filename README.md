@@ -436,6 +436,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0053-maximum-subarray](https://github.com/shri0103/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -445,6 +446,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0136-single-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
