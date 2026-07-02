@@ -197,6 +197,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3248-snake-in-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/shri0103/Leetcode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -358,6 +359,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2906-construct-product-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shri0103/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shri0103/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -412,6 +414,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -481,6 +484,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -582,6 +586,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/shri0103/Leetcode-Solutions/tree/master/1791-find-center-of-star-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shri0103/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Game Theory
 |  |
@@ -614,4 +619,8 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
