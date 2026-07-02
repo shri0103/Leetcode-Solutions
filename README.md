@@ -182,6 +182,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2798-number-of-employees-who-met-the-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2860-happy-students](https://github.com/shri0103/Leetcode-Solutions/tree/master/2860-happy-students) |
 | [2906-construct-product-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shri0103/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
@@ -259,6 +260,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2418-sort-the-people](https://github.com/shri0103/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/shri0103/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2860-happy-students](https://github.com/shri0103/Leetcode-Solutions/tree/master/2860-happy-students) |
 | [2974-minimum-number-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -561,6 +563,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2367-number-of-arithmetic-triplets](https://github.com/shri0103/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/shri0103/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [2860-happy-students](https://github.com/shri0103/Leetcode-Solutions/tree/master/2860-happy-students) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shri0103/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
