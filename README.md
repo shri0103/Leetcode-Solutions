@@ -259,6 +259,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/shri0103/Leetcode-Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3794-reverse-string-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -566,6 +567,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3620-network-recovery-pathways](https://github.com/shri0103/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/shri0103/Leetcode-Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -623,6 +625,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shri0103/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/shri0103/Leetcode-Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Trie
 |  |
