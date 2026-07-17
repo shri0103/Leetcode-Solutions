@@ -130,6 +130,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0238-product-of-array-except-self](https://github.com/shri0103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0436-find-right-interval](https://github.com/shri0103/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -264,6 +265,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0049-group-anagrams](https://github.com/shri0103/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0436-find-right-interval](https://github.com/shri0103/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/shri0103/Leetcode-Solutions/tree/master/1051-height-checker) |
@@ -550,6 +552,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0069-sqrtx](https://github.com/shri0103/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0436-find-right-interval](https://github.com/shri0103/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/shri0103/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
