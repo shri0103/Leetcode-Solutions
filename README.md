@@ -72,6 +72,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shri0103/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -215,6 +216,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shri0103/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -322,6 +324,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -410,6 +413,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2906-construct-product-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3028-ant-on-the-boundary](https://github.com/shri0103/Leetcode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shri0103/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -437,6 +441,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2053-kth-distinct-string-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
@@ -472,6 +477,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
@@ -552,6 +558,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2540-minimum-common-value](https://github.com/shri0103/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/shri0103/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -625,6 +632,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shri0103/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting Sort
