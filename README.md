@@ -57,6 +57,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shri0103/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -171,6 +172,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shri0103/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shri0103/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shri0103/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/shri0103/Leetcode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
@@ -639,6 +641,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shri0103/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
