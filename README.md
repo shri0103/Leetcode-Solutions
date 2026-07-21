@@ -380,6 +380,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3248-snake-in-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3675-minimum-operations-to-transform-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/3675-minimum-operations-to-transform-string) |
@@ -629,6 +630,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shri0103/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/shri0103/Leetcode-Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
