@@ -78,6 +78,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3345-smallest-divisible-digit-product-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shri0103/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shri0103/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shri0103/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -224,6 +225,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shri0103/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shri0103/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -521,6 +523,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/shri0103/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shri0103/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
 | ------- |
