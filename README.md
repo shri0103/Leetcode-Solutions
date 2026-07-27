@@ -381,6 +381,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shri0103/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3248-snake-in-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
+| [3456-find-special-substring-of-length-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/3456-find-special-substring-of-length-k) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
