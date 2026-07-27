@@ -75,6 +75,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shri0103/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -108,6 +109,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3028-ant-on-the-boundary](https://github.com/shri0103/Leetcode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3248-snake-in-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -527,6 +529,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/shri0103/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shri0103/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
@@ -566,6 +569,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0002-add-two-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shri0103/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/shri0103/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
