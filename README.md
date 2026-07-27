@@ -533,12 +533,14 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0938-range-sum-of-bst](https://github.com/shri0103/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shri0103/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shri0103/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -663,6 +665,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/shri0103/Leetcode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shri0103/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -683,6 +686,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Backtracking
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shri0103/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shri0103/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search Tree
 |  |
