@@ -1,14 +1,14 @@
 class Solution {
     public int findMin(int[] nums) {
-        Arrays.sort(nums);
-        // int left=0;
-        // int right=nums.length;
-        // while(left<=right){
-        //     int mid=left+(right-low)/2;
-        //     if(arr[mid])
-        // }
-        int a=nums[0];
-        return a;
-        
+        int left=0, right=nums.length-1;
+        while(left<right){
+            int mid=left+(right-left)/2;
+            if(nums[mid]>nums[right]){
+                left=mid+1;
+            }else{
+                right=mid;
+            }
+        }
+        return nums[left];
     }
 }
