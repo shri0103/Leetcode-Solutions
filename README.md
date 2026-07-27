@@ -43,6 +43,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0013-roman-to-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shri0103/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shri0103/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/shri0103/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -534,6 +535,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shri0103/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0938-range-sum-of-bst](https://github.com/shri0103/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -554,6 +556,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shri0103/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/shri0103/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0938-range-sum-of-bst](https://github.com/shri0103/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Linked List
@@ -597,6 +600,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0032-longest-valid-parentheses](https://github.com/shri0103/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/shri0103/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/shri0103/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shri0103/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shri0103/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/0338-counting-bits) |
@@ -701,6 +705,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shri0103/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0938-range-sum-of-bst](https://github.com/shri0103/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Segment Tree
 |  |
