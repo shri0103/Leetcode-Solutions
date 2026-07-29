@@ -84,6 +84,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shri0103/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/3648-minimum-sensors-to-cover-grid) |
+| [3649-number-of-perfect-pairs](https://github.com/shri0103/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shri0103/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -239,6 +240,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3620-network-recovery-pathways](https://github.com/shri0103/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3649-number-of-perfect-pairs](https://github.com/shri0103/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shri0103/Leetcode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3719-longest-balanced-subarray-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -271,6 +273,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3649-number-of-perfect-pairs](https://github.com/shri0103/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/shri0103/Leetcode-Solutions/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3794-reverse-string-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -306,6 +309,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3649-number-of-perfect-pairs](https://github.com/shri0103/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
