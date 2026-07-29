@@ -149,6 +149,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0704-binary-search](https://github.com/shri0103/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/shri0103/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shri0103/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0826-most-profit-assigning-work](https://github.com/shri0103/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [1049-last-stone-weight-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/shri0103/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -262,6 +263,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0392-is-subsequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/shri0103/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0826-most-profit-assigning-work](https://github.com/shri0103/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shri0103/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/shri0103/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shri0103/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -285,6 +287,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0436-find-right-interval](https://github.com/shri0103/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0826-most-profit-assigning-work](https://github.com/shri0103/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [1051-height-checker](https://github.com/shri0103/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/shri0103/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shri0103/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -487,6 +490,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0055-jump-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shri0103/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0826-most-profit-assigning-work](https://github.com/shri0103/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [1323-maximum-69-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shri0103/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -589,6 +593,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0436-find-right-interval](https://github.com/shri0103/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/shri0103/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0826-most-profit-assigning-work](https://github.com/shri0103/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shri0103/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
