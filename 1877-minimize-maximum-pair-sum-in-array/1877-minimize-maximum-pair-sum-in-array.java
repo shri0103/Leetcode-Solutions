@@ -5,7 +5,7 @@ class Solution {
         int max=Integer.MIN_VALUE;;
         int j=nums.length-1;
         int[] pairsum=new int[n];
-        for(int y=0;y<n;y++){
+        for(int y=0;y<n/2;y++){
             while(nums[y]<=nums[j]){
                  pairsum[y]=nums[y]+nums[j];
                  break;
