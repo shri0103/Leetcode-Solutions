@@ -72,6 +72,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2843-count-symmetric-integers](https://github.com/shri0103/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shri0103/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/shri0103/Leetcode-Solutions/tree/master/3115-maximum-prime-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -395,6 +396,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2483-minimum-penalty-for-a-shop](https://github.com/shri0103/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2864-maximum-odd-binary-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/shri0103/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri0103/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -505,6 +507,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shri0103/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shri0103/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3675-minimum-operations-to-transform-string](https://github.com/shri0103/Leetcode-Solutions/tree/master/3675-minimum-operations-to-transform-string) |
