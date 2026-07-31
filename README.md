@@ -152,6 +152,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0804-unique-morse-code-words](https://github.com/shri0103/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shri0103/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/shri0103/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
+| [0941-valid-mountain-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [1049-last-stone-weight-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/shri0103/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
