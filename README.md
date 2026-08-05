@@ -252,6 +252,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3649-number-of-perfect-pairs](https://github.com/shri0103/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shri0103/Leetcode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3719-longest-balanced-subarray-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -326,6 +327,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3649-number-of-perfect-pairs](https://github.com/shri0103/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
+| [3731-find-missing-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
@@ -366,6 +368,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shri0103/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shri0103/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/shri0103/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shri0103/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
