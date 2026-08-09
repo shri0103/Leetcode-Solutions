@@ -49,6 +49,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0628-maximum-product-of-three-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shri0103/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shri0103/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shri0103/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -158,6 +159,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0941-valid-mountain-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [1049-last-stone-weight-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/shri0103/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/shri0103/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shri0103/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -451,6 +453,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shri0103/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shri0103/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -644,6 +647,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0392-is-subsequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [3620-network-recovery-pathways](https://github.com/shri0103/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -729,6 +733,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shri0103/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Bucket Sort
 |  |
@@ -768,4 +773,12 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/shri0103/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
