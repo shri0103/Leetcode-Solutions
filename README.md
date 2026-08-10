@@ -58,6 +58,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shri0103/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shri0103/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1510-stone-game-iv](https://github.com/shri0103/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shri0103/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shri0103/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shri0103/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -648,6 +649,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0877-stone-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/shri0103/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [3620-network-recovery-pathways](https://github.com/shri0103/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shri0103/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -734,6 +736,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | ------- |
 | [0877-stone-game](https://github.com/shri0103/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/shri0103/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shri0103/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Bucket Sort
 |  |
@@ -777,8 +780,18 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/shri0103/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/shri0103/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shri0103/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shri0103/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
