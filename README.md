@@ -276,6 +276,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0189-rotate-array](https://github.com/shri0103/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shri0103/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/shri0103/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/shri0103/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -391,6 +392,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0032-longest-valid-parentheses](https://github.com/shri0103/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shri0103/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/shri0103/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shri0103/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/shri0103/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/shri0103/Leetcode-Solutions/tree/master/0709-to-lower-case) |
