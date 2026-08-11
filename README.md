@@ -390,6 +390,7 @@ I use this repo to track my DSA progress and improve problem-solving skills.
 | [0049-group-anagrams](https://github.com/shri0103/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/shri0103/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/shri0103/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/shri0103/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/shri0103/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [1189-maximum-number-of-balloons](https://github.com/shri0103/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shri0103/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
